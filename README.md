@@ -5,3 +5,6 @@
 ### [100 Days of Swift Project](https://www.hackingwithswift.com/100)
 
 * [Day 1](https://github.com/giovanninibarbosa/100daysofswift/tree/main/Day1.playground) – variables, simple data types, and string interpolation - Playground
+
+* [Day 2](https://github.com/giovanninibarbosa/100daysofswift/tree/main/Day2.playground) – arrays, dictionaries, sets, and enums - Playground
+
