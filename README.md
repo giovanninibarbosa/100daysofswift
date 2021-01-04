@@ -8,3 +8,5 @@
 
 * [Day 2](https://github.com/giovanninibarbosa/100daysofswift/tree/main/Day2.playground) – arrays, dictionaries, sets, and enums - Playground
 
+* [Day 3](https://github.com/giovanninibarbosa/100daysofswift/tree/main/Day3.playground) –  operators and conditions - Playground
+
